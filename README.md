@@ -1,2 +1,5 @@
-# zad-15.9
-https://krystynaszur.github.io/zad-15.9/
+Application for browsing through the database of Github users
+
+HTML5, CSS3, Javascript (ES6), React
+
+https://krystynaszur.github.io/github-users-app/
